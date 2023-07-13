@@ -3,14 +3,17 @@ body{
     margin: right 250px;
 }
 
-header {
-    background: black;
+header#social {
+    background: white;
     margin:auto;
 }
 
-h1#about {
-    color: white;
+header#fam {
+    font-size: 48px;
+    margin-top: 120px;
+    background: white;
 }
+
 
 img#doo1 {
 width: auto;
@@ -30,6 +33,12 @@ img#doo3 {
    margin-left: auto;
 }
 
-p#travel {
-    font-size: 18px;
+img#hopeCity {
+    margin-left:475px;
+}
+
+p#church {
+font-size: 18px;
+margin-left:475px;
+margin-top:-250px;
 }
