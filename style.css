@@ -1,5 +1,5 @@
-body p{
-    background: white;
+body{
+    background: lightblue;
     margin: right 250px;
 }
 
@@ -19,13 +19,15 @@ float: left;
 }
 img#doo2 {
    width: 382.5px;
-   height: 510px; ;
+   height: 510px;
+   margin-top: 170px;
     }
 
 img#doo3 {
    width: 510px;
    height: auto;
    margin-right:auto;
+   margin-left: auto;
 }
 
 p#travel {
