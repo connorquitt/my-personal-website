@@ -1,5 +1,5 @@
-const chinaBob = document.body.getElementById(`travel`);
-travel.addEventListener(`click`, function() {
+const china = document.getElementById(`doo1`);
+china.addEventListener(`click`, function() {
  alert("besties at China Bob");
 });
 
@@ -10,6 +10,5 @@ yellowhammer.addEventListener(`click`, function() {
 
 const georgia = document.getElementById("doo3");
 georgia.addEventListener(`click`, function() {
-    console.log("working");
-    alert("Carpool to Georgia!");
+    alert("Carpool to Georgia!")
 });
