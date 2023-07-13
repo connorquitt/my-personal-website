@@ -1,3 +1,16 @@
-body {
-    background: blue;
+body#bodyTop {
+    background: white;
+}
+
+body#bodyBottom {
+    color: red;
+}
+
+header {
+    background: black;
+    margin:auto;
+}
+
+h1#about {
+    color: white;
 }
