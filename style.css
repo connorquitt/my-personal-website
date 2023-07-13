@@ -1,9 +1,6 @@
-body#bodyTop {
+body p{
     background: white;
-}
-
-body#bodyBottom {
-    color: red;
+    margin: right 250px;
 }
 
 header {
@@ -13,4 +10,24 @@ header {
 
 h1#about {
     color: white;
+}
+
+img#doo1 {
+width: auto;
+height: auto;
+float: left;
+}
+img#doo2 {
+   width: 382.5px;
+   height: 510px; ;
+    }
+
+img#doo3 {
+   width: 510px;
+   height: auto;
+   margin-right:auto;
+}
+
+p#travel {
+    font-size: 18px;
 }
